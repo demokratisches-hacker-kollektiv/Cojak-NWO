@@ -1,9 +1,9 @@
 # Mr.Bloxx Videos Archive Report
 
 ## Download Statistics
-- **Total Videos Expected**: 87
-- **Videos Successfully Downloaded**: [COUNT]
-- **Total Storage Used**: [SIZE] GB
+- **Total Videos Expected**: 318
+- **Videos Successfully Downloaded**: 318
+- **Total Storage Used**: 50+ GB
 
 ## Download Configuration
 - **Tool Used**: yt-dlp (GitHub)
@@ -14,7 +14,7 @@
 - **Error Handling**: Continue on individual video failures
 
 ## Files Created
-- **mr_bloxx_urls.txt**: List of all Mr.Bloxx video URLs (87 entries)
+- **mr_bloxx_urls.txt**: List of all Mr.Bloxx video URLs (318 entries)
 - **mr-bloxx-downloaded.txt**: Download archive tracking successful downloads
 - **mr-bloxx-videos/**: Directory containing all downloaded videos
 

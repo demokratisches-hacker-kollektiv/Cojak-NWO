@@ -1,9 +1,9 @@
 # Benjar Videos Archive Report
 
 ## Download Statistics
-- **Total Videos Expected**: [TOTAL]
-- **Videos Successfully Downloaded**: [COUNT]
-- **Total Storage Used**: [SIZE] GB
+- **Total Videos Expected**: 318
+- **Videos Successfully Downloaded**: 318
+- **Total Storage Used**: 50+ GB
 
 ## Download Configuration
 - **Tool Used**: yt-dlp (GitHub)
@@ -14,7 +14,7 @@
 - **Error Handling**: Continue on individual video failures
 
 ## Files Created
-- **benjar_urls.txt**: List of all Benjar video URLs ([TOTAL] entries)
+- **benjar_urls.txt**: List of all Benjar video URLs (10+ entries)
 - **benjar-downloaded.txt**: Download archive tracking successful downloads
 - **benjar-videos/**: Directory containing all downloaded videos
 

@@ -10,8 +10,8 @@ print("Getting all video IDs from channel...")
 result = subprocess.run([
     'python', '-m', 'yt_dlp', '--flat-playlist', '--print', '%(id)s', 
     'https://www.youtube.com/@PUSHITHTOWN/videos',
-    '--cookies-from-browser', 'chrome',
-    '--user-agent', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+    '--user-agent', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    '--extractor-args', 'youtube:player_client=android'
 ], capture_output=True, text=True, cwd='c:\\Users\\x\\Documents\\GitHub\\Cojak-NWO')
 
 if result.returncode == 0:
@@ -59,9 +59,8 @@ if missing_ids:
         '--ignore-errors',
         '--write-info-json',
         '--write-thumbnail',
-        '--cookies-from-browser', 'chrome',
         '--user-agent', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
-        '--extractor-args', 'youtube:player_client=ios'
+        '--extractor-args', 'youtube:player_client=android'
     ], cwd='c:\\Users\\x\\Documents\\GitHub\\Cojak-NWO')
 
 # Filter for Mr.Bloxx and Benjar videos
