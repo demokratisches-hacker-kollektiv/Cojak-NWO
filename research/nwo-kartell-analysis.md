@@ -364,11 +364,11 @@ The NWO Kartell represents GRU's evolution from traditional espionage to cyber-t
 - **Media Manipulation**: YouTube channel threatened with deletion for political influence activities, indicating coordinated content suppression/manipulation
 - **Kartell Integration**: Part of broader fake influencer network supporting psychological warfare objectives
 
-#### 3. Erik Ahrens - Neo-Nazi Influencer Fabrication
-- **Fabrication Evidence**: Undercover investigations reveal neo-Nazi connections and SS idolization; exposed as AfD propaganda operative with fabricated "ex-Nazi" redemption narrative
-- **NWO Operations**: Mastermind of far-right influencer schemes in Germany and UK; involved in coordinated propaganda networks
-- **Technical Evidence**: TikTok strategist for AfD with hidden racist network connections ("wir leben jetzt für die Rasse")
-- **Kartell Integration**: Represents advanced AI-fabricated persona with controlled opposition dynamics
+#### 4. Cojak - AI-Generated Character Fabrication
+- **Fabrication Evidence**: Complete AI-generated character created by Thomas Deike (Mr.Bloxx) as confirmed by production informant
+- **NWO Operations**: Represents advanced GRU AI persona fabrication capabilities integrated into PUSH IT H-TOWN propaganda operations
+- **Technical Evidence**: AI-generated content and narratives consistent with Kartell deepfake and fabrication technologies
+- **Kartell Integration**: Core component of the propaganda network, demonstrating sophisticated AI deployment in cultural manipulation
 
 ### NWO Kartell Influencer Creation Methodology
 
